@@ -1,0 +1,33 @@
+*{
+	background-image: url(imagenes/back.gif);
+	color: white;
+	font-family: Impact;
+	font-size: 40px;
+}
+
+#score{
+	position: absolute;
+	left:300px;
+}
+
+#enemy{
+	position:absolute;
+	right: 2px;
+}
+
+#elife{
+	height:5px;
+	width: 150px;
+	font-size: 5px;
+	color: #3fff00;
+	background-color: green;
+	border: 1px solid black;
+}
+
+img{
+	position:absolute;
+}
+
+audio{
+	display:none;
+}
